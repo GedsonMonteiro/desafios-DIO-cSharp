@@ -1,4 +1,4 @@
-#Desafios de C# par a Digital Innovation One
+#Desafios de C# para a Digital Innovation One
 
 1-7 Hora_da_corrida<br>
 2-7 Cardapio_aereo<br>
